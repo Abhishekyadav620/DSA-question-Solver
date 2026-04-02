@@ -15,14 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0213-house-robber-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
