@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
