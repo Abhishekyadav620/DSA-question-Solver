@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 ## Sorting
 |  |
