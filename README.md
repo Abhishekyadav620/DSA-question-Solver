@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
