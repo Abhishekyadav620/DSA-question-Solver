@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0078-subsets) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0064-minimum-path-sum) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 ## Counting
 |  |
