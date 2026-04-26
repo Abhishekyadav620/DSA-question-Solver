@@ -74,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
+| [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
+| [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2149-rearrange-array-elements-by-sign) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
