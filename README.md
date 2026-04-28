@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
 ## Two Pointers
 |  |
