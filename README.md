@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0485-max-consecutive-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
