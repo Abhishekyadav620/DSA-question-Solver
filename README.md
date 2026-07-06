@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2187-minimum-time-to-complete-trips) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/1901-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
