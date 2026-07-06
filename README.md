@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0142-linked-list-cycle-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
