@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0540-single-element-in-a-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0875-koko-eating-bananas) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
