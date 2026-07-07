@@ -1,60 +1,45 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n1=nums1.size();
-        int n2=nums2.size();
+       if(nums1.size()>nums2.size())
+       return findMedianSortedArrays(nums2,nums1);
 
-        int i=0;
-        int j=0;
 
-        vector<int>arr;
-        int k=0;
+       int n1=nums1.size();
+       int n2=nums2.size();
 
-        while(i<nums1.size() && j<nums2.size())
+       int l=0;
+       int r=n1;
+
+       while(l<=r)
+       {
+        int px=l+(r-l)/2;
+        int py=(n1+n2+1)/2-px;
+        int x1=(px==0)?INT_MIN:nums1[px-1];
+        int x2=(py==0)?INT_MIN:nums2[py-1];
+        int x3=(px==n1)?INT_MAX:nums1[px];
+        int x4=(py==n2)?INT_MAX:nums2[py];
+
+        if(x1<=x4 && x2<=x3)
         {
-            if(nums1[i]<nums2[j])
-            {
-                arr.push_back(nums1[i]);
-                i++;
-                k++;
-            }
+            if((n1+n2)%2==1)
+            return max(x1,x2);
             else
-            {
-                arr.push_back(nums2[j]);
-                j++;
-                k++;
-            }
-        }
-        if(j==nums2.size())
-        {
-            while(i!=nums1.size())
-            {
-                arr.push_back(nums1[i]);
-                i++;
-                k++;
-            }
-        }
-        if(i==nums1.size())
-        {
-            while(j!=nums2.size())
-            {
-                arr.push_back(nums2[j]);
-                j++;
-                k++;
-            }
-        }
-        double ans=-1;
+            return (max(x1,x2)+min(x3,x4))/2.0;
 
-        if(arr.size()%2!=0)
+        }
+        if(x1>x4)
         {
-           ans=arr[arr.size()/2];
+            r=px-1;
         }
         else
         {
-           ans = (arr[(arr.size()/2)-1] + arr[arr.size()/2]) / 2.0;
-
+            l=px+1;
         }
-        return ans;
+
+
+       }
+       return -1;
         
     }
 };
