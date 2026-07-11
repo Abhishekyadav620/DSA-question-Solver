@@ -11,11 +11,7 @@ public:
         return -1;
     }
 
-    TreeNode* helper(vector<int>& preorder,
-                     vector<int>& inorder,
-                     int &preIdx,
-                     int left,
-                     int right)
+    TreeNode* helper(vector<int>& preorder,vector<int>& inorder,int &preIdx,int left,int right)
     {
         if(left > right)
             return NULL;
