@@ -10,49 +10,43 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if(!list1 )
-        return list2;
-        if(!list2 )
-        return list1;
+    ListNode* mergeTwoLists(ListNode* head1, ListNode* head2) {
+        if(!head1 && !head2)
+        return nullptr;
 
-        ListNode* d1=new ListNode(0);
-        ListNode* dummy=d1;
-        ListNode* temp1=list1;
-        ListNode* temp2=list2;
+        ListNode* dummy=new ListNode(0);
+        ListNode* dumma=dummy;
+        ListNode* temp1=head1;
+        ListNode* temp2=head2;
 
         while(temp1!=nullptr && temp2!=nullptr)
         {
-            if(temp1->val < temp2->val)
+            if(temp1->val<=temp2->val)
             {
-                dummy->next=temp1;
+                dumma->next=temp1;
                 temp1=temp1->next;
-                dummy=dummy->next;
+                dumma=dumma->next;
             }
             else
             {
-                dummy->next=temp2;
+                dumma->next=temp2;
                 temp2=temp2->next;
-                dummy=dummy->next;
+                dumma=dumma->next;
             }
-        }
-
-        while(temp1!=nullptr)
-        {
-            dummy->next=temp1;
-                temp1=temp1->next;
-                dummy=dummy->next;
-
-
         }
         while(temp2!=nullptr)
         {
-             dummy->next=temp2;
-                temp2=temp2->next;
-                dummy=dummy->next;
-
+            dumma->next=temp2;
+            dumma=dumma->next;
+            temp2=temp2->next;
         }
-        return d1->next;
+        while(temp1!=nullptr)
+        {
+            dumma->next=temp1;
+            dumma=dumma->next;
+            temp1=temp1->next;
+        }
+        return dummy->next;
         
     }
 };
