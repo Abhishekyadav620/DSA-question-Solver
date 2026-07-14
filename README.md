@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
 | [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
