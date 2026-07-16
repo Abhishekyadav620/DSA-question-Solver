@@ -9,17 +9,11 @@ public:
         return solve(1/x,-n);
 
         if(n%2==0)
-        {
-            return solve(x*x,n/2);
-        }
-        else
-        {
-            return x* solve(x*x,(n-1)/2);
-        }
+        return solve(x*x,n/2);
+
+        return solve(x*x,n/2)*x;
     }
     double myPow(double x, int n) {
-        return solve( x,(long long) n);
-       
-        
+        return solve(x,(long long)n);
     }
 };
