@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0994-rotting-oranges) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0199-binary-tree-right-side-view) |
 ## String
 |  |
 | ------- |
