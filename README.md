@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0540-single-element-in-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
