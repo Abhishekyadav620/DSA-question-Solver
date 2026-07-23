@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0031-next-permutation) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0165-compare-version-numbers) |
 ## Sliding Window
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
