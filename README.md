@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0387-first-unique-character-in-a-string) |
 ## Topological Sort
 |  |
 | ------- |
