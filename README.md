@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0073-set-matrix-zeroes) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0084-largest-rectangle-in-histogram) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
