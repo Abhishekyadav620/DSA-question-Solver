@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0485-max-consecutive-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/2965-find-missing-and-repeated-values) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
@@ -249,12 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
@@ -269,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -400,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -412,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0056-merge-intervals) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhishekyadav620/DSA-question-Solver/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
